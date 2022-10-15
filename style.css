@@ -44,7 +44,7 @@ text-decoration: none;
 
 @media only screen and (max-width: 600px) {
     .halfbody{
-        height: 45vh;
+        height: 30vh;
         width: 95%;
     }
     .input{
